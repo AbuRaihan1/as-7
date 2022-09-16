@@ -1,0 +1,18 @@
+for main marks :
+1. start button a click dile counting shuru hobe. 
+2. jodi kono word vul type kora hoy tahole seta laal hoye jabe.
+3. summery details ta page er center a dekhate hobe.
+4. typing er history dekhabe.
+5  responsive hbe. large a 3 item. ar mobile a 1 ta kore dekhabe. 
+6. second a parseFloat a dekhacche, seta parseInt te dekhabe. 
+
+bonus marks : 
+1. typing summery te error er count dekhabe, joto gula type miss hoy, toto gula dekhabe. 
+2.  minimum 10 commit korte hobe github a.
+3. blog.html naame ekta file khulte hobe. sekhane kichu proshoner ans dite hobe.
+   1. difference between localstorage and sessionStorage.
+   2. difference between global scope and block scope. 
+   3. how works, javaScript event loop?
+   4. koto vabe undefined pawa jaay?
+4. submit er somoy private repository er link dite hobe.
+5. ar netlify er live site link dite hobe. 
